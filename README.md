@@ -1,7 +1,6 @@
-### 👋 Hi there, I am Ryan Di Cioccio! 
+# 👋 Hi there, I am Ryan Di Cioccio! 
 
-<!--
-**RyanDicioccio/RyanDicioccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🎓 Currently Attending: Algonquin College - Adv. Diploma in Computer Programming and Analysis</h2>
 
 Here are some ideas to get you started:
 
