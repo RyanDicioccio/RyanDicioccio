@@ -15,8 +15,11 @@
 
 Let's connect! Feel free to reach out to me:
 
-📫 Email: <a href="mailto:ryandicioccio05@gmail.com">ryandicioccio05@gmail.com</a>
 💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-di-cioccio-401b202b6/)
+📫 [![Email](https://img.shields.io/badge/ryandicioccio05@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ryandicioccio05@gmail.com)
+
+
+
 
 
 
