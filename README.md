@@ -11,7 +11,12 @@
 🔧 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 🔧 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 🔧 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-<h2>📫 Email: <a href="mailto:ryandicioccio05@gmail.com">ryandicioccio05@gmail.com</a></h2>
+## 🌐 Connect with Me
+
+Let's connect! Feel free to reach out to me:
+
+📫 Email: <a href="mailto:ryandicioccio05@gmail.com">ryandicioccio05@gmail.com</a>
+💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-di-cioccio-401b202b6/)
 
 
 
