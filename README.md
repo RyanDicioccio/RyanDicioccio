@@ -1,6 +1,6 @@
 # 👋 Hi there, I am Ryan Di Cioccio! 
 
-<h2>🎓 Alumni: Algonquin College - Diploma in Computer Programming/h2>
+<h2>🎓 Alumni: Algonquin College - Diploma in Computer Programming </h2>
 
 ## ⚙️ Technologies and Tools
 🔧 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
